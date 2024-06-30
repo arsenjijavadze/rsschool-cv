@@ -27,3 +27,8 @@ A basic calculator built with React.
 
 ### [My Notes App](https://github.com/arsenjijavadze/my_notes_app)
 A notes application developed in Python.
+
+## Contact
+
+- **GitHub:** [arsenjijavadze](https://github.com/arsenjijavadze)
+- **Email:** arsen.jijavadze@gmail.com
